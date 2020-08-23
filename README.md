@@ -1,2 +1,2 @@
-# test
-store something else
+# do it
+store something others
