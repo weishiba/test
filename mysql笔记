@@ -1,0 +1,25 @@
+数据库（Database）是按照数据结构来组织、存储和管理数据的仓库。
+现在我们使用关系型数据库管理系统（RDBMS）来存储和管理的大数据量
+
+主要学习部分：
+SQL(Structure Query Language)结构化查询语言,它是操作数据库管理系统的一个标准:
+主要对数据库进行CRUD的操作,数据库的运算都是通过SQL来完成的
+create:创建
+delete:删除
+update:修改
+retrieve:检索
+-------------------------------------------------------------------
+SQL根据命令功能的不同分为5个部分:
+1.DCL(Data Control Language)数据控制语句:
+grant,revoke...
+
+2.DDL(Data Definition Language)数据定义语句:
+create,alter,drop,truncate,comment on,rename to...
+
+3.DML(Data Manipulating Language)数据操纵语句:
+insert,update,delete
+
+4.DQL(Date Query Language)数据查询语句:select
+
+5.DTL(Data Transaction Language)数据事务语句:
+commit,rollback,savepoint
